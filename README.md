@@ -1,6 +1,6 @@
-<h1>Hello</h1>
+<h1>Hi there</h1>
 
-<p>Sayfama Hoşgeldiniz! </br> Ben Mücahit, Sakarya Universitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Lisede tanıştığım yazılım alanıma olan tutkum Bilgisayar Mühendisliğini kazanmamla devam etti. Şuan da son sınıftayım. Mobil ve Web Programlama ile ilgilenmekte ve projeler geliştirmekteyim. </p>
+<p> Ben Mücahit, Sakarya Universitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Lisede tanıştığım yazılım alanıma olan tutkum Bilgisayar Mühendisliğini kazanmamla devam etti. Mobil ve Web Programlama ile ilgilenmekte ve projeler geliştirmekteyim. </p>
 <h3>Technologies I work with (｡◕‿◕｡)</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffc34c?style=flat-square&logo=python&logoColor=3776AA" />
