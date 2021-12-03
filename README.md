@@ -1,6 +1,6 @@
 <h1>Hi there</h1>
 
-<p> Ben Mücahit, Sakarya Universitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Lisede tanıştığım yazılım alanıma olan tutkum Bilgisayar Mühendisliğini kazanmamla devam etti. Mobil ve Web Programlama ile ilgilenmekte ve projeler geliştirmekteyim. </p>
+<p> I am Mücahit, graduated from Sakarya University Computer Engineering. My passion for my software field, which I met in high school, continued with my winning Computer Engineering. I am interested in Mobile and Web Programming and developing projects.</p>
 
 ![](https://komarev.com/ghpvc/?username=mucahit-sahin&color=green)
 <h3>Technologies I work with (｡◕‿◕｡)</h3>
@@ -25,4 +25,19 @@
 <h3>Where to find me (° ͜ʖ͡°)</h3>
 <p><a href="https://twitter.com/Mucahitsahin6" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mucahitsahinn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
+<h3>Projects (Click on the picture to access the project)</h3>
+<p>
+  <a href="https://github.com/mucahit-sahin/instagram-clone-react">   
+    <img width="30%" src="https://raw.githubusercontent.com/mucahit-sahin/instagram-clone-react/master/img/Screenshot_3.png" />  
+  </a>
+  <a href="https://github.com/mucahit-sahin/react-with-typescript">
+    <img width="30%" src="https://github.com/mucahit-sahin/react-with-typescript/raw/master/img/img1.png" />  
+  </a>
+   <a href="https://github.com/mucahit-sahin/twitter-web-clone-react">
+    <img width="30%" src="https://raw.githubusercontent.com/mucahit-sahin/twitter-web-clone-react/master/img/home.png" />  
+  </a>
+   <a href="https://github.com/mucahit-sahin/hepsiburadaclone">
+    <img width="30%" src="https://raw.githubusercontent.com/mucahit-sahin/hepsiburadaclone/master/img/Screenshot_1.png" />  
+  </a>
+</p>
 
